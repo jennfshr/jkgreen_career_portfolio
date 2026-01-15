@@ -1,5 +1,6 @@
 # Impact to Organization
 
+
 ## Minimum Qualifications
 ### **Senior Scientist** - Bachelor’s degree in relevant discipline plus fifteen or more years of experience, or equivalent.
 ### **DistinguiId** - Bachelor’s degree in relevant discipline plus twelve or more years of experience, or equivalent.
@@ -32,4 +33,17 @@ Leadership:
 
 
  
+
+## Notes
+[Roadrunner](https://top500.org/system/176027) was located at Los Alamos and built by IBM. This was the first supercomputer to break the once-elusive petaFLOP barrier, meaning that Roadrunner was capable of one quadrillion, or a thousand trillion, floating point operations per second. It helped close a difficult, long-standing gap in understanding of energy flow in a weapon and its relation to weapon yield. A power-efficient hybrid computer, Roadrunner held the No. 1 spot on TOP500 from June 2008-2009, as well as the No. 3 spot on the Green500 list of energy-efficient supercomputers.
+
+[TLCC-2 - Mustang](https://top500.org/system/177456/), The LANL Mustang supercomputer was an Appro Xtreme-X system deployed at Los Alamos National Laboratory (LANL) around 2011, featuring AMD Opteron processors and over 37,000 cores, providing hundreds of teraflops of performance for unclassified research and significantly boosting LANL's high-performance computing (HPC) capabilities before being succeeded by newer systems like Trinity and the upcoming Mission and Vision supercomputers
+
+[ACES - Cielo](https://top500.org/system/176951/) was located at Los Alamos and was built by Cray. With a speed of 1.4 petaFLOPS, Cielo was the first supercomputer to run routine 3-D weapons simulations. It was used for engineering design and assessment in support of critical B61-12 Life Extension Program (LEP) deliverables: for example, captive carry simulations of the F-35 informed design decisions.
+
+[ATS-1 - Trinity](https://top500.org/system/178610/) is located at Los Alamos and was built by Cray. With a peak performance of 41.5 petaFLOPS, it presents an 8x improvement over Cielo in fidelity, physics, and performance capabilities. As the most recent supercomputing addition to come fully online, Trinity has provided enhanced computational capability and greater exactness for geometry and physics simulations.
+
+[Chicoma](https://share.google/WFfGcEiLERwPE14Bx), a HPE Cray EX system networked with HPE Slingshot, boasts 688 nodes and more than 300TB of memory. 560 of the nodes are equipped with dual AMD Epyc 7H12 CPUs, while the remaining 128 are equipped with individual AMD Epyc 7713 CPUs and quadruple Nvidia A100 GPUs. HPCwire estimates that Chicoma offers more than eight petaflops of peak computing power. Chicoma is the first system specifically designed to offer multiple architectures within a single large platform. Chicoma was acquired as part of the 2020 CARES Act to support research related to the COVID-19 pandemic, focusing on molecular dynamics, epidemiological modeling, bioinformatics, and chromosome/RNA simulations.
+
+[ATS-3 - Crossroads](https://top500.org/system/180178/), the third Advanced Technology (AT) system in the Advanced Simulation and Computing (ASC) Program, will be critical to the success of the National Nuclear Security Administration (NNSA) Stockpile Stewardship Program (SSP). Crossroads will support the highest fidelity of next-generation weapons simulations and meet NNSA Defense Programs’ mission needs. In addition, Crossroads will explore and exploit new technologies with a focus on improving efficiency in three key areas: application performance, workflow, and application development.
 
